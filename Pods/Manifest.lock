@@ -1,0 +1,16 @@
+PODS:
+  - XLPagerTabStrip (9.1.0)
+
+DEPENDENCIES:
+  - XLPagerTabStrip (~> 9.0)
+
+SPEC REPOS:
+  trunk:
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  XLPagerTabStrip: 27f3bfe23c53b4251c6481b06b1c289458a3fc1d
+
+PODFILE CHECKSUM: a8eee6f2e2b18edde2846342f3d272767565c606
+
+COCOAPODS: 1.15.2
